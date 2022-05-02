@@ -305,6 +305,7 @@ small {
 
 p {
   line-height: 1.7;
+  color: #F02752;
 }
 
 .tm-call-to-action-form {
@@ -445,7 +446,7 @@ p {
 }
 
 .tm-app-feature-description-box {
-  color: #2C3030;
+  color: #F02752;
 }
 
 .tm-app-feature-title {
